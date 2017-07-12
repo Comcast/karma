@@ -1,0 +1,7 @@
+{
+  "name": "web-components-karma-demo",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.1"
+  }
+}
